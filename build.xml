@@ -1,0 +1,15 @@
+<project name="Chat" basedir="." default="javadoc">
+    <target name="javadoc">
+        <javadoc destdir="doc" sourcepath="src/main/java">
+            <packages>
+                <package name="es.ubu.lsi.client"/>
+                <package name="es.ubu.lsi.common"/>
+                <package name="es.ubu.lsi.server"/>
+            </packages>
+            <classpath>
+                <path path="src/main/java"/>
+            </classpath>
+        </javadoc>
+    </target>
+</project>
+

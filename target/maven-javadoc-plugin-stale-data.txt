@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Carlos BR/eclipse2020/chat/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'chat 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Carlos BR/eclipse2020/chat/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'chat 0.0.1-SNAPSHOT API'
+es.ubu.lsi.client
+es.ubu.lsi.common
+es.ubu.lsi.server
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java/es/ubu/lsi/client/ChatClient.java'
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java/es/ubu/lsi/client/ChatClientImpl.java'
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java/es/ubu/lsi/common/ChatMessage.java'
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java/es/ubu/lsi/server/ChatServer.java'
+'C:/Users/Carlos BR/eclipse2020/chat/src/main/java/es/ubu/lsi/server/ChatServerImpl.java'
+C:\Users\Carlos BR\eclipse2020\chat\src\main\java = 1715798994129
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\allclasses-frame.html = 1715799895353
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\allclasses-noframe.html = 1715799895354
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\constant-values.html = 1715799895286
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\deprecated-list.html = 1715799895351
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\help-doc.html = 1715799895360
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\index-all.html = 1715799895348
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\index.html = 1715799895355
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\overview-frame.html = 1715799895256
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\overview-summary.html = 1715799895357
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\overview-tree.html = 1715799895342
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\package-list = 1715799895251
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\script.js = 1715799895363
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\serialized-form.html = 1715799895295
+C:\Users\Carlos BR\eclipse2020\chat\target\site\apidocs\stylesheet.css = 1715799895362
